@@ -1,4 +1,4 @@
-###Author - Jolayemi Goodness (jolayemigoodness@gmail.com###
+### Author - Jolayemi Goodness (jolayemigoodness@gmail.com) ###
 
 # Data Structures: Lists, Tuples
 

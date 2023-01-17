@@ -1,3 +1,3 @@
 #!/bin/bash
-# Script that shows the response body redirecting /route_1
-curl -Ls "$1"
+#Sends a request to URL passed as an argument, and displays only the status code of the response
+curl -s -o /dev/null -w "%{http_code}" "$1"
